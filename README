@@ -1,0 +1,12 @@
+
+Tools required for Windows
+
+TortoiseGIT
+http://code.google.com/p/tortoisegit/downloads/list
+
+msysgit
+http://code.google.com/p/msysgit/downloads/list
+
+
+Check out the repository
+git clone https://thetc@github.com/thetc/napso.git
